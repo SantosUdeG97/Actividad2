@@ -1,3 +1,8 @@
+#Creado el 27 de Febrero de 2023 por José Luis Santos Mendoza
+#Actividad 2: procesamiento por lotes 2
+#Universidad de Guadalajara, Seminario de Solución de Problemas de Sistemas Operativos
+#Profesor Javier Rosales Martínez, Sección D06
+
 import os
 import re
 import random
